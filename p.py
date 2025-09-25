@@ -1,5 +1,6 @@
 print("Prime numbers between 1 to 10 are: ")
 print(1,3,5,7)
+print("It is fun")
 
 print("String palindrome")
 def is_palindrome():
